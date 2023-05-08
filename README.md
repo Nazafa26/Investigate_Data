@@ -1,4 +1,4 @@
-#### This project is created only to display my skills in Machine learning and data analytics:__ 
+#### This project is created only to display my skills in Machine learning and data analytics: 
 
 All datasets and the programs used to generate the file are presented in the Data folder.
 All Files can be directly run without any modifications.
