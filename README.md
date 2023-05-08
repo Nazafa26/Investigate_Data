@@ -1,10 +1,9 @@
-__This project is created only to display my skills in Machine learning and data analytics: 
+__This project is created only to display my skills in Machine learning and data analytics:__ 
 
-Each File represents the demonstration of each method.
-All datasets and the programs used to generate are present in the Data folder.
+All datasets and the programs used to generate the file are presented in the Data folder.
 All Files can be directly run without any modifications.
 
-__Discalimer:
+__Disclaimer:__
 
 The file is only for inspiration and showing data analytics skills, not for the direct adaptation of the file or the dataset.
 
