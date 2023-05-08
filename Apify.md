@@ -245,14 +245,16 @@ sns.relplot(x='total_platform_usage_usd', y = 'dataset_items_count', data = df )
 
 
 
+![output_13_1](https://user-images.githubusercontent.com/112628373/236853554-756985f6-0be3-492e-92f4-dbc35ed40f2a.png)
 
-    
+
 ![png](output_13_1.png)
     
 
 
 
-    
+![output_13_2](https://user-images.githubusercontent.com/112628373/236853587-747670ae-a5c2-48f4-971d-92c0513d3b3f.png)
+
 ![png](output_13_2.png)
     
 
